@@ -1,4 +1,4 @@
-# list-array
+# binary tree
 package com.pcsetting.example;
 import java.util.Random;
 import java.util.Scanner;
